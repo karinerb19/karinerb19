@@ -47,11 +47,18 @@
 
 ---
 
-### 📦 Proyectos destacados
+### 📦 Featured Projects
 
 🔹 [Automation Examples](https://github.com/karinerb19/Automation_examples)  
 
 ---
+
+### 🔥 Most Used Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinerb19&layout=compact&theme=default" alt="Top Langs" />
+</p>
+
 <!--
 ### 📈 GitHub Stats
 
@@ -60,12 +67,13 @@
 </p>
 
 ---
-
 -->
 
-### 🧠 Frase que me inspira
+---
+### 🧠 Quote that inspires me (Frase que me inspira)
 
-> “Make every day count.”
+> “If you get 1% better each day for one year, you'll end up 37 times better by the time you're done.”  
+> — *James Clear, Atomic Habits*
 
 
 
