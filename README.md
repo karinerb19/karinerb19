@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Karine</h1>
+<h1 align="center">Hi 👋, I'm Karine</h1>
 
 <p align="center">
   <em>Senior QA Automation Engineer 🚀</em>
