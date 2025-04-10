@@ -1,9 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I am Karine</h1>
 
-<!--
-**karinerb19/karinerb19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Senior QA Automation Engineer 🚀</em>
+</p>
 
-Here are some ideas to get you started:
+---
+
+### 👩‍💻 About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +14,40 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
+</p>
+
+---
+
+### 📦 Proyectos destacados
+
+🔹 [Automation Examples](https://github.com/karinerb19/Automation_examples)  
+
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karinerb19&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🧠 Frase que me inspira
+
+> “Make every day count.”
+
+
+
+
