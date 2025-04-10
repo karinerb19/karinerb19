@@ -35,7 +35,8 @@
 
 🔹 [Automation Examples](https://github.com/karinerb19/Automation_examples)  
 
-
+---
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -43,6 +44,8 @@
 </p>
 
 ---
+
+-->
 
 ### 🧠 Frase que me inspira
 
