@@ -63,8 +63,8 @@
 ### 🏅 Certifications
 
 | Certification        | Link                           | Issued Date |
-|:-----------------------:|:--------------------------------:|:-------------:|
-| ISTQB® Advanced Level Test Automation Engineering |  [Official U.S. List of Certified & Credentialed Software Testers™ Profile](https://www.istqb.org/certification-path-root/foundation-level.html](https://atsqa.org/certified-testers/profile/11ec543280ca4e3b81192d14304a726a) | Dec 2022    |
+|:-----------------------|:--------------------------------|:-------------|
+| ISTQB® Advanced Level Test Automation Engineering |  [Official U.S. List of Certified & Credentialed Software Testers™ Profile](https://atsqa.org/certified-testers/profile/11ec543280ca4e3b81192d14304a726a) | Dec 2022    |
 
 <!--
 ### 📈 GitHub Stats
@@ -79,7 +79,8 @@
 ---
 ### 🧠 Quote that inspires me (Frase que me inspira)
 
-> “If you get 1% better each day for one year, you'll end up 37 times better by the time you're done.”  
+> “If you get 1% better each day for one year, you'll end up 37 times better by the time you're done.”
+> ("Si mejoras un 1% cada día durante un año, terminarás 37 veces mejor cuando termines") 
 > — *James Clear, Atomic Habits*
 
 
