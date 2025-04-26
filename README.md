@@ -58,6 +58,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinerb19&layout=compact&theme=default" alt="Top Langs" />
 </p>
 
+---
+
+### 🏅 Certifications
+
+| Certification        | Link                           | Issued Date |
+|-----------------------|--------------------------------|-------------|
+| ISTQB® Advanced Level Test Automation Engineering |  [Official U.S. List of Certified & Credentialed Software Testers™ Profile]([https://www.istqb.org/certification-path-root/foundation-level.html](https://atsqa.org/certified-testers/profile/11ec543280ca4e3b81192d14304a726a) | Dec 2022    |
+
 <!--
 ### 📈 GitHub Stats
 
